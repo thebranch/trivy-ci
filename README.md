@@ -1,3 +1,3 @@
 # trivy-ci
 
-Implementación de trivy como stage en jenkins.
+How to use trivy with Jenkins pipelines. 
